@@ -11,7 +11,7 @@
   <tr>
     <td><img width="256" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/b7f19af0-0b90-4daa-88ab-c505ad587d03" /></td>
     <td><img width="256" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/c8689d76-d96a-4d7a-bbe2-6cbc625edaca" /></td>
-    <td><a href="https://www.paypal.me/xcatliu/"><img width="256" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/6c69d708-f6d8-416c-ad5c-11b7ceb2b7c0" /><p align="center">Sponsor me on PayPal</p></a></td>
+    <td><a href=""><img width="256" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/6c69d708-f6d8-416c-ad5c-11b7ceb2b7c0" /><p align="center">Sponsor me on PayPal</p></a></td>
   </tr>
 </table>
 
