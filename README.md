@@ -17,8 +17,6 @@
     </td>
   </tr>
 </table>
-
-### My GitHub Contributions
-![](https://raw.githubusercontent.com/Yudaotor/Yudaotor/main/assets/github-contribution-grid-snake.svg)    
+ 
 
 
