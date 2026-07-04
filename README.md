@@ -15,6 +15,12 @@
   <img src="https://profile-counter.glitch.me/Yudaotor/count.svg" />
 </p>
 
+<p align="center">
+  <a href="https://yudaotor.github.io/nowplaying/?user=yudaotor" target="_blank">
+    <img src="https://nowplaying-badge.cyh-937ae0.workers.dev/badge" alt="Now Playing (Apple Music)" width="400">
+  </a>
+</p>
+
 
 <table>
   <tr>
