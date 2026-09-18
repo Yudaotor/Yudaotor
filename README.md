@@ -1,53 +1,81 @@
-<h2> 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈𝐭'𝐬 𝐊𝐡𝐚𝐥𝐢𝐥  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">
+  Hey there, it's Khalil
+  <img src="assets/wave.gif" width="28" alt="">
+</h1>
 
-
-<p align="center"> 
-  <a href="https://t.me/Yudaotor" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Yudaotor-blue" alt="Telegram">
-  </a>
-  <a href="https://blog.csdn.net/qq_33884853?type=blog" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-Khalil%E4%B8%89%E7%9C%81-orange" alt="CSDN">
-  </a>
-  <a href="https://discordapp.com/users/1046144860115177593" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-khalil_c-blue" alt="CSDN">
-  </a><br>
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Yudaotor/count.svg" />
+<p align="center">
+  Glad you stopped by.
 </p>
 
 <p align="center">
-  <a href="https://yudaotor.github.io/nowplaying/?user=yudaotor" target="_blank">
-    <img src="https://nowplaying-badge.cyh-937ae0.workers.dev/badge" alt="Now Playing (Apple Music)" width="400">
-  </a>
+  <a href="https://t.me/Yudaotor"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Yudaotor-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="https://discordapp.com/users/1046144860115177593"><img alt="Discord" src="https://img.shields.io/badge/Discord-khalil__c-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://yudaotor.github.io/"><img alt="Website" src="https://img.shields.io/badge/Site-yudaotor.github.io-24292F?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Yudaotor&style=flat-square&color=6f42c1&label=Profile+views">
 </p>
 
+<p align="center">
+  <a href="https://yudaotor.github.io/nowplaying/?user=yudaotor">
+    <img width="420" alt="Now playing on Apple Music" src="https://nowplaying-badge.cyh-937ae0.workers.dev/badge">
+  </a>
+  <br>
+  <sub>Live from my Mac &middot; <a href="https://github.com/Yudaotor/nowplaying-workers">how it's wired up</a></sub>
+</p>
+
+---
+
+### What I'm building
+
+**[Lyrimuse](https://github.com/Yudaotor/lyrimuse)** &middot; Swift
+
+Word-synced desktop lyrics for macOS. Floating overlay, Dynamic Island, menu bar or
+lyrics window &mdash; with translation, romanization and Last.fm scrobbling.
+An actively maintained LyricsX alternative.
+
+Works with Apple Music, Spotify, QQ Music, NetEase Cloud Music and Kugou,
+plus YouTube Music and Spotify Web in any browser.
+
+<a href="https://github.com/Yudaotor/lyrimuse"><img alt="Stars" src="https://img.shields.io/github/stars/Yudaotor/lyrimuse?style=flat-square&labelColor=24292F&color=0969DA"></a>
+<a href="https://github.com/Yudaotor/lyrimuse/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Yudaotor/lyrimuse/total?style=flat-square&labelColor=24292F&color=1A7F37"></a>
+<a href="https://github.com/Yudaotor/lyrimuse/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/Yudaotor/lyrimuse?style=flat-square&labelColor=24292F&color=8250DF"></a>
+
+---
+
+### GitHub at a glance
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yudaotor&theme=github_dark">
+    <img width="62%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yudaotor&theme=default">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Yudaotor&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img width="70%" alt="Streak" src="https://streak-stats.demolab.com/?user=Yudaotor&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudaotor/Yudaotor/output/snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yudaotor/Yudaotor/output/snake-light.svg">
+  </picture>
+</p>
+
+---
+
+### Buy me a coffee
 
 <table>
-  <tr>
-    <td>
-      <img width="360" src="https://github-readme-stats.vercel.app/api?username=Yudaotor&show_icons=true" alt="Yudaotor's GitHub Stats">
-    </td>
-    <td>
-      <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudaotor&layout=compact" alt="Top Langs">
-    </td>
-    <td>
-      <img width="360" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31yltk2jdofve6pudvdxy4whhmle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile">
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%"><img width="240" alt="WeChat" src="assets/wechat.jpg"><br><sub>WeChat</sub></td>
+<td align="center" width="33%"><img width="240" alt="Alipay" src="assets/alipay.jpg"><br><sub>Alipay</sub></td>
+<td align="center" width="33%">
+  <br><br>
+  <a href="https://www.paypal.com/paypalme/Yudaotor"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-paypal.me%2FYudaotor-003087?style=for-the-badge&logo=paypal&logoColor=white"></a>
+  <br><br><sub>International</sub>
+</td>
+</tr>
 </table>
-
-
-### Buy Me A Coffee :coffee:
-<table>
-  <tr>
-    <td><img width="360" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/b7f19af0-0b90-4daa-88ab-c505ad587d03" /></td>
-    <td><img width="360" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/c8689d76-d96a-4d7a-bbe2-6cbc625edaca" /></td>
-    <td>
-        <img width="360" src="https://github.com/Yudaotor/Yudaotor/assets/87225219/6c69d708-f6d8-416c-ad5c-11b7ceb2b7c0" />
-        <a href="https://www.paypal.com/paypalme/Yudaotor"><p align="center">Sponsor me on PayPal</p></a>
-    </td>
-  </tr>
-</table>
- 
-
-
