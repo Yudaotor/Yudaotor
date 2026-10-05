@@ -68,14 +68,8 @@ plus YouTube Music and Spotify Web in any browser.
 
 ### Buy me a coffee
 
-<table>
-<tr>
-<td align="center" width="33%"><img width="240" alt="WeChat" src="assets/wechat.jpg"><br><sub>WeChat</sub></td>
-<td align="center" width="33%"><img width="240" alt="Alipay" src="assets/alipay.jpg"><br><sub>Alipay</sub></td>
-<td align="center" width="33%">
-  <br><br>
-  <a href="https://www.paypal.com/paypalme/Yudaotor"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-paypal.me%2FYudaotor-003087?style=for-the-badge&logo=paypal&logoColor=white"></a>
-  <br><br><sub>International</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/sponsors/Yudaotor"><img alt="Sponsor on GitHub" src="https://img.shields.io/badge/Sponsor_on_GitHub-bf3989?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
+  <a href="https://yudaotor.github.io/donate/#alipay"><img alt="Alipay" src="https://img.shields.io/badge/Alipay-1677FF?style=for-the-badge&logo=alipay&logoColor=white"></a>
+  <a href="https://yudaotor.github.io/donate/#wechat"><img alt="WeChat Pay" src="https://img.shields.io/badge/WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
+</p>
