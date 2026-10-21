@@ -4,7 +4,10 @@
 </h1>
 
 <p align="center">
-  Glad you stopped by.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Building+Lyrimuse+%E2%80%94+word-synced+lyrics+for+macOS;Swift+%C2%B7+Go+%C2%B7+Cloudflare+Workers;Usually+listening+to+something">
+    <img alt="Building Lyrimuse — word-synced lyrics for macOS" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&color=0969DA&center=true&vCenter=true&width=520&height=40&lines=Building+Lyrimuse+%E2%80%94+word-synced+lyrics+for+macOS;Swift+%C2%B7+Go+%C2%B7+Cloudflare+Workers;Usually+listening+to+something">
+  </picture>
 </p>
 
 <p align="center">
@@ -52,15 +55,8 @@ plus YouTube Music and Spotify Web in any browser.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Yudaotor&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img width="70%" alt="Streak" src="https://streak-stats.demolab.com/?user=Yudaotor&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudaotor/Yudaotor/output/snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yudaotor/Yudaotor/output/snake-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudaotor/Yudaotor/metrics/metrics.isocalendar.dark.svg">
+    <img width="70%" alt="Contribution calendar with streaks" src="https://raw.githubusercontent.com/Yudaotor/Yudaotor/metrics/metrics.isocalendar.svg">
   </picture>
 </p>
 
